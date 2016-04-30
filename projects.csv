@@ -1,2 +1,2 @@
-project,location,pdb
-"11507","PROJ11507","PROJ11507/5dfr_solv-cube_equil.pdb"
+project,location,pdb,topology_selection
+"11507","PROJ11507","PROJ11507/5dfr_solv-cube_equil.pdb","not (water or resname NA or resname CL)"
