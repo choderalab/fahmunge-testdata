@@ -2,4 +2,4 @@ project,location,pdb,topology_selection
 "11507","PROJ11507","PROJ11507/5dfr_solv-cube_equil.pdb","not (water or resname NA or resname CL)"
 "11507a","PROJ11507","PROJ11507/RUN%(run)d/system.pdb","not water"
 "11419","PROJ11419","PROJ11419/RUN0/system.pdb","not (water or resname NA or resname CL)"
-"11431","PROJ11419","PROJ11431/RUN%(run)d/minimized.pdb","not (water or resname NA or resname CL)"
+"11431","PROJ11431","PROJ11431/RUN%(run)d/minimized.pdb","not (water or resname NA or resname CL)"
